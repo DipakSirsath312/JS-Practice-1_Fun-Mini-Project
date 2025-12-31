@@ -25,3 +25,31 @@ This project focuses on:
 - GSAP animations
 
 ---
+
+## 🚀 Live Preview
+
+Open `index.html` in your browser to see the project in action.
+
+*(You can also deploy it using GitHub Pages for a live demo.)*
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure
+- **CSS3** – Styling and layout
+- **JavaScript (Vanilla JS)** – Core logic
+- **GSAP (GreenSock Animation Platform)** – Smooth animations
+
+---
+
+## 📂 Project Structure
+
+JS-Practice-1_Mini-Project/
+│
+├── index.html      # Main HTML file
+├── style.css       # Styling
+├── script.js       # JavaScript & GSAP logic
+└── README.md       # Project documentation
+
+---
