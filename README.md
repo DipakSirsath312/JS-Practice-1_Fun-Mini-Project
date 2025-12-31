@@ -58,7 +58,7 @@ JS-Practice-1_Mini-Project/
 
 ---
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 The rectangle’s position and width are calculated using getBoundingClientRect().
 
@@ -71,5 +71,18 @@ Left half → Red intensity increases
 Right half → Blue intensity increases
 
 mouseleave event resets the color smoothly.
+
+---
+
+# 📥 Installation & Usage
+
+1. Clone the repository:
+   git clone https://github.com/DipakSirsath312/JS-Practice-1_Fun-Mini-Project.git
+
+2. Open the project folder:
+   cd JS-Practice-1_Fun-Mini-Project
+
+3. Run the project:
+   Open index.html in your browser
 
 ---
