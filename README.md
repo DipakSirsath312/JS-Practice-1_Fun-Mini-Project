@@ -30,8 +30,6 @@ This project focuses on:
 
 Open `index.html` in your browser to see the project in action.
 
-*(You can also deploy it using GitHub Pages for a live demo.)*
-
 ---
 
 ## 🛠️ Technologies Used
@@ -84,5 +82,19 @@ mouseleave event resets the color smoothly.
 
 3. Run the project:
    Open index.html in your browser
+
+---
+
+# 🎯 Learning Outcomes
+
+Understanding mouse events in JavaScript
+
+Mapping values dynamically
+
+Using GSAP for smooth animations
+
+Building interactive UI elements
+
+Strengthening JavaScript fundamentals
 
 ---
