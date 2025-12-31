@@ -47,9 +47,29 @@ Open `index.html` in your browser to see the project in action.
 
 JS-Practice-1_Mini-Project/
 │
+
 ├── index.html      # Main HTML file
+
 ├── style.css       # Styling
+
 ├── script.js       # JavaScript & GSAP logic
+
 └── README.md       # Project documentation
+
+---
+
+⚙️ How It Works
+
+The rectangle’s position and width are calculated using getBoundingClientRect().
+
+Mouse X-axis movement is tracked using mousemove events.
+
+gsap.utils.mapRange() maps mouse position to RGB values:
+
+Left half → Red intensity increases
+
+Right half → Blue intensity increases
+
+mouseleave event resets the color smoothly.
 
 ---
